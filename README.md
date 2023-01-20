@@ -9,3 +9,7 @@ Informacion del Repositorio
 1_ En la carpeta datasets se encuntra los dataframe y el ETL <br>
 2_ En la carpeta app se encuentra el archivo main.py donde se realiza una APi y las consultas y tambien se encuntra un dataframe creado de la union de los cuatro datraframe anteriormente nombrados <br>
 3_ Se encuentra el archivo docker para poder realizar la API <br>
+
+
+Para ver el video demostrativo entrar al siguiente link
+https://drive.google.com/file/d/1p7H25sWNpBE6JBJMjmVr78j7eBMUxuca/view?usp=sharing
